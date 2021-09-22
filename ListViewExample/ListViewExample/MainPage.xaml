@@ -14,6 +14,7 @@
             <StackLayout>
                 <Button x:Name="Item12" Text="ListViewDemo"/>
                 <Button x:Name="Item13" Text="ListViewCode"/>
+                <Button x:Name="Item15" Text="ListViewGroup"/>
             </StackLayout>
         </StackLayout>
     </StackLayout>
